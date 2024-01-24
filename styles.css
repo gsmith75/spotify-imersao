@@ -141,6 +141,10 @@ body {
     width: 113px;
 }
 
+.sidebar .cookies{
+    margin:25px 20px;
+}
+
 .sidebar .cookies a{
     color:#b3b3b3;
     font-family: "DM Sans", sans-serif;
